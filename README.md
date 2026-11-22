@@ -8,7 +8,7 @@
 <h3 align="center">「 THE WORLD IS MY NEXT LEVEL 」</h3>
 
 <p align="center">
-  <b>RENuka DEVI R | COMPUTER SCIENCE GRADUATE</b>
+  <b>RENUKA DEVI R | COMPUTER SCIENCE GRADUATE</b>
 </p>
 
 <p align="center">
@@ -42,15 +42,9 @@ Hello! I'm **Renuka Devi**, a Computer Science graduate passionate about buildin
 - 🧠 Interested in building AI-powered applications
 - 🎯 Constantly upgrading my skills and knowledge
 
-> Every project is another level unlocked.
-
-## ◈ SKILL INVENTORY
-
+> Every project is another level unlocked. Because hunter is always hunger.
 
 ## ◈ SKILL INVENTORY | PLAYER ABILITIES
-
-
-## ◈ SKILL INVENTORY
 
 ### ▣ PROGRAMMING LANGUAGES
 
@@ -102,13 +96,15 @@ Hello! I'm **Renuka Devi**, a Computer Science graduate passionate about buildin
 - System awakening interface.
 - Personal skills, projects and education showcase.
 
-### ⚔️ My Calculator
+### ⚔️ AI Assistant — Educational Platform
 
-**CLASS:** Python Development  
-**TECHNOLOGY:** Python
+**CLASS:** AI-Powered Educational Application  
+**TECH STACK:** Python, Flask, HTML, CSS, JavaScript, Gemini AI
 
-- Python-based calculator project.
-- Practicing functions and programming fundamentals.
+- Developed an AI-powered educational platform.
+- Includes separate Teacher Login and Student Login.
+- Features an Evaluator module for educational assessment.
+- Provides an interactive platform for teachers and students.
 
 ## ◈ EDUCATION
 
