@@ -1,169 +1,149 @@
- <div align="right">
-<a href="https://github.com/renukadevi120506">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="28"/>
-</a>
-</div>
 
-<div align="center">
+# ⚡ SYSTEM AWAKENING | RENUKA DEVI
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000000,50:292929,100:000000&text=RENUKA%20DEVI%20R&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=COMPUTER%20SCIENCE%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=12&descAlignY=70" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=48DDF5&center=true&vCenter=true&width=650&lines=SYSTEM+AWAKENED...;WELCOME+TO+MY+WORLD;PYTHON+DEVELOPER;MACHINE+LEARNING+EXPLORER;GENERATIVE+AI+ENGINEER" />
+</p>
 
-**DEVELOPER · AI ENTHUSIAST · LIFELONG LEARNER**
+<h3 align="center">「 THE WORLD IS MY NEXT LEVEL 」</h3>
 
-*Exploring technology. Creating possibilities.*
-
-</div>
+<p align="center">
+  <b>RENuka DEVI R | COMPUTER SCIENCE GRADUATE</b>
+</p>
 
 ---
 
-<div align="center">
+## ◈ SYSTEM WINDOW
 
-## ABOUT ME
+```text
+╔══════════════════════════════════════╗
+       SYSTEM NOTIFICATION
+╠══════════════════════════════════════╣
+  PLAYER       : RENUKA DEVI R
+  CLASS        : DEVELOPER
+  RANK         : IN PROGRESS
+  SPECIALITY   : PYTHON & AI
+  STATUS       : SYSTEM ONLINE
+╚══════════════════════════════════════╝
+```
 
-</div>
+## ◈ ABOUT THE PLAYER
 
-Hello! I'm **Renuka Devi R**, a Computer Science graduate passionate about technology and innovation.
+Hello! I'm **Renuka Devi**, a Computer Science graduate passionate about building technology and exploring the world of Artificial Intelligence.
 
-I'm interested in Python development, Machine Learning, Deep Learning and Generative AI. I enjoy exploring new technologies, developing projects and continuously improving my technical knowledge.
+- 🐍 Exploring Python Development
+- 🤖 Learning Machine Learning & Deep Learning
+- ⚡ Completed Generative AI Certification
+- 🧠 Interested in building AI-powered applications
+- 🎯 Constantly upgrading my skills and knowledge
 
-<div align="center">
+> Every project is another level unlocked.
 
-*Learning with curiosity. Building with purpose.*
+## ◈ SKILL INVENTORY
 
-</div>
 
----
+## ◈ SKILL INVENTORY | PLAYER ABILITIES
 
-<div align="center">
 
-## TECHNICAL SKILLS
+## ◈ SKILL INVENTORY
 
-**Programming & Development**
+### ▣ PROGRAMMING LANGUAGES
 
-<img src="https://img.shields.io/badge/Python-303030?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-303030?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-303030?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-303030?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-303030?style=flat-square&logo=mysql&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
 
-**Data & Artificial Intelligence**
+### ▣ TECHNOLOGIES & FRAMEWORKS
 
-<img src="https://img.shields.io/badge/NumPy-303030?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-303030?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-303030?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep_Learning-303030?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative_AI-303030?style=flat-square"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-111111?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative_AI-111111?style=for-the-badge&logoColor=white"/>
+</p>
 
-**Tools & Platforms**
+### ▣ TOOLS & PLATFORMS
 
-<img src="https://img.shields.io/badge/Git-303030?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-303030?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-303030?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-303030?style=flat-square&logo=jira&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-## SELECTED PROJECTS
-
-*An overview of my development journey.*
-
-</div>
-
-**01. Digital Portfolio**
-
-Personal developer portfolio showcasing my skills and projects.
-
-[View Repository ↗](https://github.com/renukadevi120506/digital_portfolio)
-
-**02. Python Data Masking**
-
-A Python project focused on protecting sensitive numerical information.
-
-[View Repository ↗](https://github.com/renukadevi120506/Python-data-masking)
-
-**03. Food-Bill**
-
-A simple billing application using Python data structures.
-
-[View Repository ↗](https://github.com/renukadevi120506/Food-Bill)
-
-**04. Loan Consultancy System**
-
-A business application developed using Python OOP concepts.
-
-[View Repository ↗](https://github.com/renukadevi120506/Loan-Consultancy-System)
-
-**05. Movie Recommendation**
-
-A NumPy-based movie recommendation system.
-
-[View Repository ↗](https://github.com/renukadevi120506/Movie-Recommendation)
-
-**06. Triangle Technique**
-
-A Python pattern-generation project.
-
-[View Repository ↗](https://github.com/renukadevi120506/Triangle-Technique)
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <b>◈ SYSTEM STATUS : SKILLS UPGRADING ◈</b>
+</p>
 
-## EDUCATION & CERTIFICATION
+## ◈ QUEST LOG | PROJECTS
 
-**B.Sc. Computer Science**
+### ⚔️ RENU.exe — System Awakening Portfolio
+
+**CLASS:** Personal Portfolio  
+**TECHNOLOGIES:** Python, Flask, HTML, CSS, JavaScript
+
+- Interactive futuristic gaming-inspired portfolio.
+- System awakening interface.
+- Personal skills, projects and education showcase.
+
+### ⚔️ My Calculator
+
+**CLASS:** Python Development  
+**TECHNOLOGY:** Python
+
+- Python-based calculator project.
+- Practicing functions and programming fundamentals.
+
+## ◈ EDUCATION
+
+🎓 **B.Sc. Computer Science**
 
 Government College for Women (A), Kumbakonam
 
-2023 – 2026
+**2023 – 2026**
 
-**Generative AI Certification**
+## ◈ CERTIFICATIONS
 
-Completed
+- Generative AI – Completed Certification
 
-</div>
+## ◈ GITHUB STATUS
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=renukadevi120506&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renukadevi120506&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=renukadevi120506&theme=tokyonight&hide_border=true"/>
+</p>
 
-## GITHUB STATISTICS
-<div align="center">
+## ◈ CONNECT WITH ME
 
-<img src="https://github-readme-stats.vercel.app/api?username=renukadevi120506&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=AAAAAA&text_color=CCCCCC" width="65%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renukadevi120506&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" width="50%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=renukadevi120506&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=AAAAAA&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888" width="65%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=renukadevi120506&bg_color=000000&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true" width="80%"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/renukadevi120506">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=1000&color=48DDF5&center=true&vCenter=true&width=500&lines=LEVEL+UP+EVERY+DAY;KEEP+BUILDING.+KEEP+LEARNING."/>
+</p>
 
-## LET'S CONNECT
+<h3 align="center">⚡ SYSTEM STATUS: ALWAYS EVOLVING ⚡</h3>
 
-<a href="https://github.com/renukadevi120506">
-<img src="https://img.shields.io/badge/GitHub-RENUKA%20DEVI-303030?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-*Quietly learning. Constantly growing.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:000000,50:404040,100:000000&section=footer"/>
-
-</div>
+<p align="center">
+  <i>"I am not here to follow the path. I am here to create my own level."</i>
+</p>
